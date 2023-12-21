@@ -12,6 +12,6 @@ The images used were created by the designer [Thunde Rockets](https://dribbble.c
 ## Project Details
 This project focuses solely on replicating a UI design.
 
-##License
+## License
 
 This project is licensed under the [GNU General Public License, version 3.](https://github.com/Renanuya/flutter_onboarding/blob/main/LICENSE) See the license file for more details.
